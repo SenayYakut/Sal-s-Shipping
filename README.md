@@ -10,7 +10,7 @@ You’ll build a program that will take the weight of a package and determine th
 
 Install the project locally
 ```bash
-
+git clone https://github.com/SenayYakut/Sal-s-Shipping.git
 ```
 
 ## Usage
