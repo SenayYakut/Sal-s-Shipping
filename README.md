@@ -15,7 +15,15 @@ git clone https://github.com/SenayYakut/Sal-s-Shipping.git
 
 ## Usage
 
+What is the cheapest method of shipping a 4.8 pound package and how much would it cost?
 
+What is the cheapest method of shipping a 41.5 pound package and how much would it cost?
+
+```python
+ print(best_method(4.8)) #Ground shipping is the best method and costs $34.4
+ print(best_method(41.5)) #Premium is the best method and costs $125.0 
+
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
